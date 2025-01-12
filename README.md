@@ -1,4 +1,4 @@
-#Portfolio Project
+# Portfolio Project
 This is a simple portfolio site I am building.
 I have a few objectives:
 - Simple
